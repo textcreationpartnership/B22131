@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, for the better observation of the Lords-Day.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22131</idno><idno type="EEBO-CITATION">99885872_193868</idno>
+  <idno type="VID">193868</idno>
+  <idno type="EEBO-PROQUEST">2248534161</idno>
+  
+            <idno type="STC">Wing E1943A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[73]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[66]</idno>
+            <idno type="STC">ESTC R225136</idno>
+            <idno type="PROQUEST">ocm99885872</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885872e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193868)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[72]; C29:2[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, for the better observation of the Lords-Day.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>April 10. 1644..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition the last full line of black letter text ends: "first".</note>
+                  <note>Initial; Steele notation: Gothic letter.</note>
+                  <note>Reproductions of originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Sunday Legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:193868:1"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS Assembled in Parliament, For the better Observation of the LORDS-DAY.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as the Lords-day, notwithanding severall good Laws heretofore made, hath been not onely great<g ref="char:EOLhyphen"/>ly prophaned, but divers ungodly Books have been published by the Prelaticall faction, against the morality of that day, and to countenance the prophanation of the same, to the manifest indangering of soules, preju<g ref="char:EOLhyphen"/>dice of the true Religion, great dishonour of Almighty God, and provocation of his just wrath and indig<g ref="char:EOLhyphen"/>nation against this Land; The Lords and Commons for remedy thereof, do Order and Ordain, and be it Ordered and Ordained, That all the Laws enacted, and in force, concerning the observation of the Lords day, be carefully put in execution; and that all and singular person and persons whatsoever, shall on every Lords-day, apply themselves to the sanctification of the same, by exercising themselves thereon, in the duties of Piety and true Religion, publiquely and privately: And that no person or persons whatsoever, shall publiquely cry, shew forth, or expose to sale, any Wares, Merchandizes, Fruit, Herbs, Goods or Chattels whatsoever, upon the Lords-day, or any part thereof; upon pain, that every person so offending shall forfeit the same Goods so cried, shewed forth or put to sale: And that no person or persons whatsoever, shall, without reasonable cause for the same, travell, carry burthens, or do any worldly labours, or work whatsoever, upon that day or any part thereof; upon pain, that every one travelling contrary to the meaning of this Ordinance, shall forfeit for every offence, ten shillings of lawfull money; and that every person carrying any burthen, or doing any worldly labour or work, contrary to the meaning hereof, shall forfeit five shillings of like money for every such offence. And be it further ordained, That no person or persons shall hereafter upon the Lords-day, use, exercise, keep, maintain, or be present at any Wrestlings, shooting, Bowling, Ringing of Bels for pleasure or pastime, Masque, Wake, other<g ref="char:EOLhyphen"/>wise called Feasts, Church-Ale, Dancing, Games, Sport or Pastime whatsoever; upon pain, that every person so offending, be<g ref="char:EOLhyphen"/>ing above the age of fourteen yeers, shall lose and forfeit five shillings for every such offence. And be it further Ordained, that all and singular person and persons, that have the care, government, tuition or education of any child or children, under, or within the age of fourteenyeers, shal forfeit and lose twelve pence for every of the said offences that shal be committed by any such child and children. And because the prophanation of the Lords-day hath been heretofore greatly occasioned by May-Poles (a Heathenish vanity, generally abused to superstition and wickednesse,) The Lords and Commons do further Order and Ordain, that all and singular May-Poles, that are, or shall be erected, shall be taken down, and removed by the Constables, Borsholders, Tything-men, petty Constables, and Church-wardens of the Parishes and places where the same be; and that no May-pole shall be hereafter set up, erected, or suffered to be within this Kingdom of <hi>England</hi> or Dominion of <hi>Wales.</hi> And it is further Ordained, that if any of the said Officers shall neglect to do their Office in the premises, within one week after notice of this Or<g ref="char:EOLhyphen"/>dinance, every of them for such neglect shall forfeit five shillings of lawfull moneys; and so from week to week, weekly five shil<g ref="char:EOLhyphen"/>lings more afterwards, till the said May-pole shall be taken down and removed. And that if any Iustice of the Peace of the County, or the chiefe Officer or Officers, or any Iustice of the Peace, of, or within any City, Burrough, or Town-Corporate, where the said offences shall be committed upon his or their view, or confesson of the party, or proof of any one, or more witnesses by oath (which the said Iustice, chief Officer or Officers, is by this Ordinance authorized to minister) shall find any person offen<g ref="char:EOLhyphen"/>ding in the premisses, the said Iustice, or chief Offcer or Officers, shall give warrant under his or their hand and seal, to the Con<g ref="char:EOLhyphen"/>stables or Church-wardens of the Parish or Parishes where such offence shall be committed, to seize the said Goods, cried, shew<g ref="char:EOLhyphen"/>ed forth, or put to sale as aforesaid; and to leavie the said other forfeitures or penalties by way of distresse, and sale of the Goods of every such Offender, rendring to the said offenders the overplus of the moneys raised thereby; And in default of such distresse, or in case of insufficiency, or inabilitie of the offender to pay the said forfeitures or penalties, that the party offending be set publique<g ref="char:EOLhyphen"/>ly in the Stocks by the space of three hours: And all and singular, the forfeitures or penalties aforesaid shall be imployed and converted to the use of the poor of the parish where the said offences shall be committed, saving onely, that it shall and may be law<g ref="char:EOLhyphen"/>full, to, and for any such Iustice, Major, or head Officer or Offcers, out of the said forfeitures or penalties, to reward any person or persons that shall inform of any offence against this Ordinance, according to their discretions; so as such reward exceed not the third part of the forfeiture or penalties. And it is further Ordained by the said Lords and Commons, that the Kings De<g ref="char:EOLhyphen"/>claration concerning observing of Wakes, and use of exercise and recreation upon the Lords-day; the Book entituled, <hi>The Kings Majesties Declaration to his Subjects, concerning lawfull sports to be used;</hi> and all other Books and Pamphlets that have been, or shall be written, printed or published against the moralitie of the fourth Commandement, or of the Lords-day, or to countenance the prophanation thereof, be called in, seized and suppressed, and publiquely burnt by the Iustices of Peace, or some, or one of them, or by the chief Officer or Officers aforesaid, in their severall limits, or by their warrant or command. Provided, and be it Declared, That nothing in this Ordinance shall extend to the prohibiting of dressing of meat in private Families, or the dressing and sale of Victuals in a moderate way in Innes or Victualing-Houses, for the use of such as otherwise cannot be provided for; or to the crying or selling Milk before nine of the clock in the Morning, and after four of the clock in the Afternoon, from the tenth of <hi>September</hi> till the tenth of <hi>March:</hi> or before eight of the clocke in the Morning, or after five of the clock in the Afternoon, from the tenth of <hi>March</hi> till the tenth of <hi>September.</hi> And whereas thereis great breach of the Sabbath by Rogues, Vagabons, and Beggars, it is further Ordained, That the Lord Major of the Citie of <hi>London,</hi> and all Iustices of Peace, Constables, Church<g ref="char:EOLhyphen"/>wardens, and other Officers, and Ministers whatsoever, shall from time to time cause all Laws against Rogues, Vagabons, and Beggars, to be put in due execution; and take order that all Rogues, Vagabons and Beggars do on every Sabbath-day repair to some Church or Chappell, and remaine there soberly and orderly during the time of Divine-Worship. And that all and sin<g ref="char:EOLhyphen"/>gular person and persons, that shall do any thing in the execution of this Ordinance, shall be protected and saved harmlesse by the power and Authority of Parliament.</p>
+            <p>And be it further Ordained, that this Ordinance be Printed and Published, and read in all Parish Churches and Chappels, be<g ref="char:EOLhyphen"/>fore the Sermon in the Morning, on some Lords-day before the first of <hi>May</hi> next, on the South-side of Trent; and before the first of <hi>June</hi> next, on the North-side of Trent.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 6. April. 1644.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords and Commons assembled in Parliament, That this Ordinance be printed and published, and read in all Churches and Chappels, before the Sermon in the morning, on some Lords-day before the first of <hi>May</hi> next, on the South-side of <hi>Trent;</hi> and be<g ref="char:EOLhyphen"/>fore the first day of <hi>June</hi> next on the North-side of <hi>Trent.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Edward Husbands, <hi>April</hi> 10. 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
